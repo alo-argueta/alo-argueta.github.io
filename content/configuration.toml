@@ -38,6 +38,16 @@ image = "https://zaggonaut.dev/michael-dam-unsplash.webp"
 ctaText = "View Projects"
 ctaUrl = "/projects"
 
+<section>
+  <h2>Sobre mí</h2>
+  <p>
+    Soy Analista de Datos Junior con conocimientos en Python y SQL. Me enfoco en transformar datos en insights claros y accionables para la toma de decisiones.
+  </p>
+  <p>
+    He trabajado en proyectos de análisis exploratorio, pruebas A/B y modelos predictivos. Me interesa seguir desarrollando soluciones basadas en datos.
+  </p>
+</section>
+
 [_.personal]
 name = "Zaggonaut"
 githubProfile = "https://github.com/RATIU5/zaggonaut"
