@@ -25,5 +25,3 @@ El análisis permitió proponer estrategias de retención como:
 - Diseñar promociones para clientes jóvenes
 - Mejorar la experiencia de nuevos usuarios
 - Fomentar la asistencia mediante clases e incentivos
-
-Check out [the theme website](https://zaggonaut.dev) to see it in action!
