@@ -1,11 +1,8 @@
 ---
-title: Modelo de predicción de churn en clientes de un gimnasio
-slug: zaggonaut
-description: Desarrollo de un modelo predictivo para identificar clientes con alta probabilidad de cancelación en un gimnasio.
-A través de análisis exploratorio, modelos de machine learning y segmentación de usuarios, se identificaron factores clave de churn y se propusieron estrategias de retención basadas en datos.
-longDescription: Zaggonaut is a retro-inspired theme for Astro, built using TypeScript, TailwindCSS, and Astro.
-cardImage: "https://zaggonaut.dev/michael-dam-unsplash.webp"
-tags: ["astro", "portfolio", "open-source"]
+title: "Modelo de predicción de churn en clientes de un gimnasio"
+description: "Desarrollo de un modelo predictivo para identificar clientes con alta probabilidad de cancelación en un gimnasio.
+A través de análisis exploratorio, modelos de machine learning y segmentación de usuarios, se identificaron factores clave de churn y se propusieron estrategias de retención basadas en datos."
+tags: ["Python", "Machine Learning", "Análisis exploratorio de datos"]
 githubUrl: https://github.com/alo-argueta/Modelo-de-predicci-n-de-churn-en-clientes-de-un-gimnasio
 timestamp: 2025-02-24T02:39:03+00:00
 featured: true
