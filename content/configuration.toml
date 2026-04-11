@@ -34,10 +34,6 @@ cardImage = "https://zaggonaut.dev/michael-dam-unsplash.webp"
 [_.hero]
 title = "Alondra Argueta León"
 subtitle = "Analista de datos"
-image = "https://zaggonaut.dev/michael-dam-unsplash.webp"
-ctaText = "View Projects"
-ctaUrl = "/projects"
-
 <section>
   <h2>Sobre mí</h2>
   <p>
@@ -47,6 +43,11 @@ ctaUrl = "/projects"
     He trabajado en proyectos de análisis exploratorio, pruebas A/B y modelos predictivos. Me interesa seguir desarrollando soluciones basadas en datos.
   </p>
 </section>
+image = "https://zaggonaut.dev/michael-dam-unsplash.webp"
+ctaText = "View Projects"
+ctaUrl = "/projects"
+
+
 
 [_.personal]
 name = "Zaggonaut"
