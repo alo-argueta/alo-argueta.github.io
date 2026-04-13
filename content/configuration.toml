@@ -35,7 +35,7 @@ cardImage = "https://zaggonaut.dev/michael-dam-unsplash.webp"
 title = "Alondra Argueta León"
 subtitle = "Analista de datos"
 image = "https://alo-argueta.github.io/images/alo_foto.jpeg"
-ctaText = "View Projects"
+ctaText = "Ver proyectos"
 ctaUrl = "/projects"
 
 
