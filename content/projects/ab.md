@@ -3,7 +3,7 @@ title: "Análisis de prueba A/B para optimización de ingresos en tienda online"
 description: "Priorización de hipótesis de mejora del sitio web mediante frameworks RICE e ICE y análisis de una prueba A/B para evaluar impacto en conversión e ingresos. Los resultados mostraron que la variante B incrementó la tasa de conversión y generó mayores ingresos acumulados."
 tags: ["Python", "A/B testing", "Análisis exploratorio de datos"]
 githubUrl: https://github.com/alo-argueta/An-lisis-de-un-test-A-B-para-una-tienda-online
-timestamp: 2026-04-29T02:39:03+00:00
+timestamp: 2026-04-09T02:39:03+00:00
 featured: true
 ---
 
