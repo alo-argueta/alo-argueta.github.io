@@ -48,7 +48,7 @@ linkedinProfile = "https://www.linkedin.com/in/alondra-argueta/"
 [_.texts]
 articlesName = "Articles"
 projectsName = "Projects"
-viewAll = "View All"
+viewAll = "Ver proyectos"
 noArticles = "No articles found."
 noProjects = "No projects found."
 
