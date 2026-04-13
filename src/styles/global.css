@@ -43,19 +43,19 @@
   --font-serif:
     "Literata Variable", ui-serif, Georgia, Cambria, "Times New Roman", Times,
     serif;
-  --color-zag-dark: #2e1065;
-  --color-zag-dark-opaque: oklch(from #2e1065 l c h / 0.5);
+  --color-zag-dark: #082f49;
+  --color-zag-dark-opaque: oklch(from #082f49 l c h / 0.5);
 
-  --color-zag-light: #faf5ff;
-  --color-zag-light-opaque: oklch(from #faf5ff l c h / 0.5);
+  --color-zag-light: #f0f9ff;
+  --color-zag-light-opaque: oklch(from #f0f9ff l c h / 0.5);
 
-  --color-zag-dark-muted: #6b21a8;
-  --color-zag-light-muted: #c084fc;
-  
-  --color-zag-accent-light: var(--color-violet-400);
-  --color-zag-accent-light-muted: var(--color-violet-300);
-  --color-zag-accent-dark: var(--color-violet-600);
-  --color-zag-accent-dark-muted: var(--color-violet-800);
+  --color-zag-dark-muted: #0284c7;
+  --color-zag-light-muted: #7dd3fc;
+
+  --color-zag-accent-light: var(--color-cyan-400);
+  --color-zag-accent-light-muted: var(--color-sky-300);
+  --color-zag-accent-dark: var(--color-cyan-600);
+  --color-zag-accent-dark-muted: var(--color-blue-800);
 }
 
 @layer base {
