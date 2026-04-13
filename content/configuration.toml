@@ -56,4 +56,3 @@ noProjects = "No projects found."
 [_.menu]
 home = "/"
 projects = "/projects"
-blog = "/blog"
