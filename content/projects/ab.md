@@ -14,11 +14,39 @@ Desarrollé un análisis de prueba A/B para una tienda online con el objetivo de
 - Prioricé hipótesis de mejora del sitio web utilizando los frameworks ICE y RICE.
 - Analicé métricas clave: ingresos acumulados, tamaño promedio de pedido y tasa de conversión.
 - Detecté y filtré valores atípicos en número de pedidos y monto de compra.
+<div style="display:flex; gap:20px; flex-wrap:wrap;">
+
+  <div style="flex:1; min-width:300px;">
+    <img src="/images/projects/pedidos_outliers.png" alt="Pedidos outliers" />
+    <p><strong>Pedidos atípicos</strong></p>
+  </div>
+
+  <div style="flex:1; min-width:300px;">
+    <img src="/images/projects/precios_outliers.png" alt="Precios outliers" />
+    <p><strong>Tamaños de pedido atípicos</strong></p>
+  </div>
+
+</div>
+
 - Apliqué pruebas estadísticas (Prueba Z y Mann-Whitney) para validar significancia de resultados.
 
 ### 📊 Resultados
 - La variante B mostró una tasa de conversión significativamente superior al grupo A.
 - Los ingresos acumulados del grupo B superaron al grupo A hacia el final de la prueba.
+<div style="display:flex; gap:20px; flex-wrap:wrap;">
+
+  <div style="flex:1; min-width:300px;">
+    <img src="/images/projects/ingreso_acumulado.png" alt="Ingreso acumulado" />
+    <p><strong>Ingreso acumulado: Grupo A vs Grupo B</strong></p>
+  </div>
+
+  <div style="flex:1; min-width:300px;">
+    <img src="/images/projects/tasa_conversion.png" alt="Tasa de conversión" />
+    <p><strong>Tasa de conversión diaria: Grupo A vs Grupo B</strong></p>
+  </div>
+
+</div>
+
 - No se encontró diferencia estadísticamente significativa en el tamaño promedio de compra.
 
 ### 💡 Impacto
