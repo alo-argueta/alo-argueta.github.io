@@ -43,12 +43,15 @@
   --font-serif:
     "Literata Variable", ui-serif, Georgia, Cambria, "Times New Roman", Times,
     serif;
-  --color-zag-dark: var(--color-neutral-900);
-  --color-zag-dark-opaque: oklch(from var(--color-neutral-900) l c h / 0.5);
-  --color-zag-light: var(--color-neutral-100);
-  --color-zag-light-opaque: oklch(from var(--color-neutral-100) l c h / 0.5);
-  --color-zag-dark-muted: var(--color-neutral-600);
-  --color-zag-light-muted: var(--color-neutral-400);
+  --color-zag-dark: #2e1065;
+  --color-zag-dark-opaque: oklch(from #2e1065 l c h / 0.5);
+
+  --color-zag-light: #faf5ff;
+  --color-zag-light-opaque: oklch(from #faf5ff l c h / 0.5);
+
+  --color-zag-dark-muted: #6b21a8;
+  --color-zag-light-muted: #c084fc;
+  
   --color-zag-accent-light: var(--color-violet-400);
   --color-zag-accent-light-muted: var(--color-violet-300);
   --color-zag-accent-dark: var(--color-violet-600);
